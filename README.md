@@ -1,2 +1,20 @@
-# ens-compliance-automation
-Prototipo funcional desarrollado en Python para automatizar las fases iniciales del proceso de adecuación al Esquema Nacional de Seguridad (ENS), incluyendo autodiagnóstico, categorización preliminar, identificación de medidas aplicables y generación automática de informes.
+# Automatización del Cumplimiento ENS
+
+Prototipo funcional desarrollado como parte del Trabajo Fin de Estudios.
+
+## Funcionalidades
+
+- Autodiagnóstico inicial
+- Categorización ENS preliminar
+- Identificación de medidas aplicables
+- Cálculo de nivel inicial de cumplimiento
+- Generación automática de informe Word
+
+## Tecnologías utilizadas
+
+- Python 3.13
+- python-docx
+
+## Autor
+
+Mónica Polixenia Palasanu
